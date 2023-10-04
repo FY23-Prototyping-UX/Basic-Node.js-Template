@@ -3,6 +3,12 @@
 .AppleDouble
 .LSOverride
 
+# General Windows files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
 # Logs
 logs
 *.log
